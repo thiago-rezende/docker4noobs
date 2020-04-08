@@ -50,14 +50,19 @@
 
 ### Pré-requisitos
 
-Lista de softwares necessário junto de um breve tutorial de instalação no Sistema Operacional **Linux**.
+Lista de softwares necessário junto de um breve tutorial de instalação em Sistemas **Linux**.
 
 - git
 
 ### Instalação
 
   ```sh
-    sudo apt-get install git
+    # Ubuntu/Debian
+    apt-get install git
+    # Arch
+    pacman -S git
+    # CentOS
+    yum install git
   ```
 
 <!-- COMO USAR -->
