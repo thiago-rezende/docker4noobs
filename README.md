@@ -50,7 +50,7 @@
 
 ### Pré-requisitos
 
-Lista de softwares necessário junto de um breve tutorial de instalação em Sistemas **Linux**.
+Lista de softwares necessários junto de um breve tutorial de instalação em Sistemas **Linux**.
 
 - git
 
