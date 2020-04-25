@@ -57,7 +57,12 @@ Lista de softwares necessário junto de um breve tutorial de instalação no Sis
 ### Instalação
 
   ```sh
+    # Ubuntu
     sudo apt-get install git
+    # Arch
+    sudo pacman -S git
+    # Centos
+    sudo yum install git
   ```
 
 <!-- COMO USAR -->
