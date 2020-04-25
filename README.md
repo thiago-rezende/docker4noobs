@@ -50,19 +50,19 @@
 
 ### Pré-requisitos
 
-Lista de softwares necessário junto de um breve tutorial de instalação no Sistema Operacional **Linux**.
+Lista de softwares necessários junto de um breve tutorial de instalação em Sistemas **Linux**.
 
 - git
 
 ### Instalação
 
   ```sh
-    # Ubuntu
-    sudo apt-get install git
+    # Ubuntu/Debian
+    apt-get install git
     # Arch
-    sudo pacman -S git
-    # Centos
-    sudo yum install git
+    pacman -S git
+    # CentOS
+    yum install git
   ```
 
 <!-- COMO USAR -->
@@ -115,9 +115,11 @@ MIT License
 
 ## Contato
 
-Thiago Rezende - [@HorusHe4rt](https://twitter.com/HorusHe4rt) - horus.he4rt@gmail.com
+Thiago Rezende (Horus) - [@HorusHe4rt](https://twitter.com/HorusHe4rt) - horus.he4rt@gmail.com
 
 Link do projeto: [https://github.com/thiago-rezende/docker4noobs](https://github.com/thiago-rezende/docker4noobs)
+
+<p align="center">Made with 💜</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
