@@ -10,7 +10,7 @@
   <h3 align="center">Docker 4 Noobs</h3>
 
   <p align="center">
-    Guia completo de Docker, Docker Compose, Swarm e Kebernetes
+    Guia completo de Docker, Docker Compose, Swarm e Kubernetes
     <br />
     <strong>Este curso ainda está sendo desenvolvido.</strong>
     <br />
