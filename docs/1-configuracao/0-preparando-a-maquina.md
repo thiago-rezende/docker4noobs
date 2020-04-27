@@ -1,5 +1,5 @@
-# Instalação
-Nesta seção, estaremos instalando todos os softwares necessários para usar este curso.
+# Preparando a Máquina
+Nesta seção, prepararemos nossa máquina para instalar todos os softwares necessários para as próximas seções.
 > Distribuições Linux abordadas neste curso:
 > - Ubuntu/Debian
 > - Arch
