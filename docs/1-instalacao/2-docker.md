@@ -8,20 +8,43 @@ Uma variedade de métodos de instalação está disponível nos sistemas linux. 
 ## Primeiro método `[MANUAL]`
 Execute os comandos para a sua distro:
 
-### Ubuntu/Debian
+### Ubuntu
+> Instale as dependências do `Docker`
 ```sh
-  curl
+apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+```
+> Adicione a chave `GPG` oficial do `Docker`
+```sh
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+```
+> Adicione o repositório `Docker`
+```sh
+add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+```
+> Instale o `Docker Engine`
+```sh
+  apt-get update
+  apt-get install docker-ce docker-ce-cli containerd.io
+```
+
+### Debian
+```sh
 ```
 
 ### Arch
 ```sh
-  pacman -Syu
 ```
 
 ### CentOS
 ```sh
-  yum check-update
-  yum update
 ```
 
 ## Segundo método `[AUTOMÁTICO]`
