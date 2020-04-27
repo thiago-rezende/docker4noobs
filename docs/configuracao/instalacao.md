@@ -14,3 +14,8 @@ Execute os comandos para a sua distro:
   apt-get update
   apt-get upgrade
 ```
+
+## Arch
+```sh
+  pacman -Syu
+```
