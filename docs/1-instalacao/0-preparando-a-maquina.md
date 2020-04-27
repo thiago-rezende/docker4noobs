@@ -15,12 +15,12 @@ Execute os comandos para a sua distro:
   apt-get upgrade
 ```
 
-## Arch
+### Arch
 ```sh
   pacman -Syu
 ```
 
-## CentOS
+### CentOS
 ```sh
   yum check-update
   yum update
