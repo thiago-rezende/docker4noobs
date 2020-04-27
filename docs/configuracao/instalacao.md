@@ -19,3 +19,9 @@ Execute os comandos para a sua distro:
 ```sh
   pacman -Syu
 ```
+
+# CentOS
+```sh
+  yum check-update
+  yum update
+```
