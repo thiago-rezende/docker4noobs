@@ -27,15 +27,16 @@
 
 ## Índice
 
+- [Índice](#%c3%8dndice)
 - [Sobre o projeto](#sobre-o-projeto)
-  - [Construído com](#construído-com)
-- [Começando](#começando)
-  - [Pré-requisitos](#pré-requisitos)
-  - [Instalação](#instalação)
+  - [Construído Com](#constru%c3%addo-com)
+- [Começando](#come%c3%a7ando)
+  - [Pré-requisitos](#pr%c3%a9-requisitos)
+  - [Instalação](#instala%c3%a7%c3%a3o)
 - [Como Usar](#como-usar)
 - [Roteiro](#roteiro)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
+- [Licença](#licen%c3%a7a)
 - [Contato](#contato)
 
 <!-- SOBRE O PROJETO -->
