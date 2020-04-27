@@ -20,7 +20,7 @@ Execute os comandos para a sua distro:
   pacman -Syu
 ```
 
-# CentOS
+## CentOS
 ```sh
   yum check-update
   yum update
