@@ -67,7 +67,24 @@ add-apt-repository \
 ```
 
 ### CentOS
+> Instale as dependências do `Docker`
 ```sh
+  yum install -y yum-utils
+
+```
+> Adicione o repositório `Docker`
+```sh
+yum-config-manager \
+    --add-repo \
+    https://download.docker.com/linux/centos/docker-ce.repo
+```
+> Instale o `Docker Engine`
+```sh
+  yum install docker-ce docker-ce-cli containerd.io
+```
+> Inicie o serviço do `Docker`
+```sh
+  systemctl start docker
 ```
 
 ## Segundo método `[AUTOMÁTICO]`
