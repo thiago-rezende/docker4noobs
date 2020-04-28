@@ -88,7 +88,7 @@ yum-config-manager \
 ```
 
 ## Segundo método `[AUTOMÁTICO]`
-Usando o método de instalação automatizada, o comando será o mesmo para as três distros abordadas neste tutorial.
+Usando o método de instalação automatizada, o comando será o mesmo para todas as distros abordadas neste tutorial exceto para o `Arch`, infelizmente este script ainda não suporta o `Arch Linux` restando para ele a instalação `[MANUAL]` como  único método.
 
 ### Comando
 ```sh
