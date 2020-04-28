@@ -36,7 +36,30 @@ add-apt-repository \
 ```
 
 ### Debian
+> Instale as dependências do `Docker`
 ```sh
+apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+```
+> Adicione a chave `GPG` oficial do `Docker`
+```sh
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+```
+> Adicione o repositório `Docker`
+```sh
+add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/debian \
+   $(lsb_release -cs) \
+   stable"
+```
+> Instale o `Docker Engine`
+```sh
+  apt-get update
+  apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
 ### Arch
