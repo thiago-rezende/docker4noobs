@@ -14,4 +14,10 @@ Usaremos o comando `curl` para fazer o download sem a necessidade de um navegado
   curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 ```
 
+> Adicione as permissões de execução ao binário do Docker Compose.
+
+```sh
+  chmod +x /usr/local/bin/docker-compose
+```
+
 [compose-github]: https://github.com/docker/compose
