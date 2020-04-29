@@ -96,3 +96,15 @@ Usando o método de instalação automatizada, o comando será o mesmo para toda
 ```sh
   curl -fsSL https://get.docker.com | bash
 ```
+
+# Etapas pós-instalação `[OPCIONAL]`
+Se você precisar executar o comando `docker` como outro usuário que não o `root`, será necessário adicionar esse usuário ao grupo de usuários `docker`.
+
+⚠️ __CUIDADO__: Faça isso apenas no seu servidor de teste. Nenhum usuário pode ter permissões equivalentes ao `root` no servidor de produção.
+
+> O comando de gerenciamento de grupo de usuários é o mesmo para todas as distribuições abordadas neste tutorial.
+
+> Substitua o `$USER` para o nome de usuário desejado.
+```sh
+  usermod -aG docker $USER
+```
