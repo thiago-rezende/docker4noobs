@@ -63,7 +63,9 @@ add-apt-repository \
 ```
 
 ### Arch
+> Como o pacote `Docker` já está nos repositórios do `Arch Linux`, você só precisa executar o comando de instalação.
 ```sh
+  pacman -S docker
 ```
 
 ### CentOS
