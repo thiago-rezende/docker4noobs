@@ -6,7 +6,7 @@ O `Docker Compose` é uma ferramenta que facilita a criação, configuração e 
 # Instalação
 No Linux, você pode baixar o binário do Docker Compose direto do repositório do [Compose no GitHub][compose-github].
 
-Usaremos o comando `curl` para fazer o download sem a necessidade de um navegador da web.
+Usaremos o comando `curl` para fazer o download sem a necessidade de um navegador web.
 
 > O comando é o mesmo para todas as distros abordadas neste tutorial.
 
