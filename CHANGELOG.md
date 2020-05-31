@@ -2,8 +2,15 @@
 > This changelog is automaticaly generated.
 > If you find any issue with this file, please report to the devs.
 
-## [Current]
+## [Unreleased]
 
+ - [a9316d2] fix(setup): fixed spelling check in kubernetes installation section (Thiago Rezende)
+ - [033d50a] feat(setup): finished kubernetes installation section (Thiago Rezende)
+ - [b67a645] feat(setup): added k3d installation steps (Thiago Rezende)
+ - [60c0e7e] feat(setup): added kubectl installation steps (Thiago Rezende)
+ - [1828f4c] feat(setup): added simple information about kubernetes and k3d (Thiago Rezende)
+ - [4926276] refactor(setup): added more concise information in compose installation section (Thiago Rezende)
+ - [9207b7d] docs(changelog): added a changelog and a changelog generator (Thiago Rezende)
  - [e6293bc] feat(setup): finished the docker compose installation steps (Thiago Rezende)
  - [92ef642] feat(setup): added docker compose installation instructions (Thiago Rezende)
  - [2df7ce7] feat(setup): added simple information about the docker compose (Thiago Rezende)
