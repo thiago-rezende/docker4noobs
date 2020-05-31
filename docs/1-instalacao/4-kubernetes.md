@@ -55,9 +55,9 @@ Os comandos serão os mesmos para todas as distros abordadas neste tutorial.
 ```
 
 # Pós-instalação
-Probably, you will not use this cluster too early in the tutorial, I recommend you to delete the cluster and recreate it only in the section that you will be learnig about the kubernetes. To do it, run the following command.
+Como, provavelmente, você não usará esse cluster muito cedo no tutorial, recomendo excluir o cluster e recriá-lo apenas na seção em que você aprenderá sobre os kubernetes. Para fazer isso, execute o seguinte comando.
 
-## Command
+## Comando
 ```sh
   k3d delete mycluster
 ```
