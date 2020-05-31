@@ -2,5 +2,5 @@
 
 Índice contendo a lista de seções e seu conteúdo.
 
-## 1 - Configuração
-Nesta seção, configuraremos a máquina para usar todo o curso.
+## 1 - Instalação
+Nesta seção, faremos a instalação de todos os softwares necessários para usar este curso.
