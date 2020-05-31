@@ -37,8 +37,29 @@ Os seguintes comandos vão instalar, configurar e testar um cluster k3d.
 Os comandos serão os mesmos para todas as distros abordadas neste tutorial.
 
 ## Comandos
+> Instale a última versão
 ```sh
   curl -s https://raw.githubusercontent.com/rancher/k3d/master/install.sh | bash
+```
+> Crie um cluster
+```sh
+  k3d create cluster mycluster
+```
+> Exportar a variável KUBECONFIG
+```sh
+  export KUBECONFIG="$(k3d get-kubeconfig --name='k3s-default')"
+```
+> Verifique o status do cluster
+```sh
+  kubectl cluster-info
+```
+
+# Pós-instalação
+Probably, you will not use this cluster too early in the tutorial, I recommend you to delete the cluster and recreate it only in the section that you will be learnig about the kubernetes. To do it, run the following command.
+
+## Command
+```sh
+  k3d delete mycluster
 ```
 
 [kubernetes-site]: https://kubernetes.io/
