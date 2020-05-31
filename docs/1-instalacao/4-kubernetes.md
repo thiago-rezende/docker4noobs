@@ -17,7 +17,7 @@ Antes de instalar o `k3d`, precisamos da ferramenta `kubectl`, através desta fe
 
  Os comandos serão os mesmos para todas as distros abordadas neste tutorial.
 
-### Commands
+### Comandos
 > Faça o download do binário
 ```sh
   curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
@@ -54,7 +54,7 @@ Os comandos serão os mesmos para todas as distros abordadas neste tutorial.
   kubectl cluster-info
 ```
 
-# Pós-instalação
+# Pós-instalação `[OPCIONAL]`
 Como, provavelmente, você não usará esse cluster muito cedo no tutorial, recomendo excluir o cluster e recriá-lo apenas na seção em que você aprenderá sobre os kubernetes. Para fazer isso, execute o seguinte comando.
 
 ## Comando
