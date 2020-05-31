@@ -7,19 +7,38 @@ O [k3s][k3s-github] é a distribuição Kubernetes mais leve criado, e mantido p
 
 O k3d cria clusters k3s em contêineres. Isso significa que você pode ativar um cluster k3s de vários nós em uma única máquina usando a janela de encaixe.
 
-> Mais informações sobre `Kubernetes`, `k3d` e `k3s` serão fornecidas nas próximas seções.
+> Mais informações sobre `Kubernetes`, `k3d`, `k3s` e `clusters` serão fornecidas nas próximas seções.
 
 # Instalação
-## Ubuntu/Debian
+A instalação do k3d é feita através de um script de instalação, o comando será o mesmo para todas as distribuições abordadas neste tutorial.
+
+## Kubectl
+Antes de instalar o `k3d`, precisamos da ferramenta `kubectl`, através desta ferramenta será possível acessar e controlar nosso cluster.
+
+ Os comandos serão os mesmos para todas as distros abordadas neste tutorial.
+
+### Commands
+> Faça o download do binário
 ```sh
+  curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+```
+> Torne executável
+```sh
+  chmod +x ./kubectl
+```
+> Mover para alguma pasta incluída no `PATH`
+```sh
+  mv ./kubectl /usr/local/bin/kubectl
 ```
 
-## Arch
-```sh
-```
+# K3d
+Os seguintes comandos vão instalar, configurar e testar um cluster k3d.
 
-## CentOS
+Os comandos serão os mesmos para todas as distros abordadas neste tutorial.
+
+## Comandos
 ```sh
+  curl -s https://raw.githubusercontent.com/rancher/k3d/master/install.sh | bash
 ```
 
 [kubernetes-site]: https://kubernetes.io/
