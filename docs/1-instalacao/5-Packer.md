@@ -10,7 +10,7 @@ Existem dois métodos principais de instalação do packer, usando um binário p
 Entre no link do packer e baixe o pacote apropriado para o seu sistema.
 
 ```
-https://www.packer.io/downloads.html
+[https://www.packer.io/downloads.html](https://www.packer.io/downloads.html)
 ```
 <br />
 <div align="center">
