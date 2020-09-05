@@ -1,5 +1,6 @@
 # Docker
 Nesta seção, estaremos instalando o docker e configurando seu usuário para usá-lo.
+
 > Explicações mais detalhadas sobre o docker serão fornecidas nas próximas seções.
 
 # Instalação
