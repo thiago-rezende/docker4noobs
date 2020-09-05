@@ -5,6 +5,12 @@
 ## [Unreleased]
 
 
+## [v0.1.3]
+ - [367d236] docs: update version number (Thiago Rezende)
+ - [95223db] docs: update readme.md (Thiago Rezende)
+ - [70cb49f] ci: action to build and deploy now watches the develop branch too (Thiago Rezende)
+ - [2a41eed] docs: generated new changelog (Thiago Rezende)
+
 ## [v0.1.2]
  - [74f0a5f] fix(vuepress): removed trailing slash from base url (Thiago Rezende)
  - [43c13fc] docs: generated new changelog (Thiago Rezende)
