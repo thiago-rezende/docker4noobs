@@ -1,6 +1,6 @@
 {
   "name": "docker4noobs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Complete Docker, Docker Compose, Swarm and Kubernetes Guide",
   "repository": "git@github.com:thiago-rezende/docker4noobs",
   "author": "Thiago Rezende <bitrateti@gmail.com>",
