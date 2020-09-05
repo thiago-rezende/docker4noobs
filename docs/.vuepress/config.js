@@ -8,7 +8,7 @@ module.exports = {
     ],
     themeConfig: {
         yuu: {
-            defaultDarkTheme: true,
+            defaultDarkTheme: false,
             defaultColorTheme: "purple",
         },
         nav: [
