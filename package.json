@@ -1,0 +1,19 @@
+{
+  "name": "docker4noobs",
+  "version": "0.0.1",
+  "description": "Complete Docker, Docker Compose, Swarm and Kubernetes Guide",
+  "repository": "git@github.com:thiago-rezende/docker4noobs",
+  "author": "Thiago Rezende <bitrateti@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "dependencies": {
+    "vuepress-theme-yuu": "^2.3.0"
+  }
+}

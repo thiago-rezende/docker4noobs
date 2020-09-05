@@ -6,7 +6,7 @@ O Paker é uma ferramenta open source, utilizado para criar imagens de máquinas
 Existem dois métodos principais de instalação do packer, usando um binário pré-compilado e instalando da fonte. Vou explicar o método do binário pré-compilado
 
 
-# download o binário 
+# download o binário
 Entre no link do packer e baixe o pacote apropriado para o seu sistema.
 
 
@@ -23,7 +23,7 @@ Entre no link do packer e baixe o pacote apropriado para o seu sistema.
 </div>
 
 
-# Extraindo o arquivo 
+# Extraindo o arquivo
 
 Na pasta onde realizou o download execute o comando para extrair os arquivos da pasta .zip
 > nota: o nome do arquivo pode mudar.
@@ -50,7 +50,7 @@ cp ./packer /usr/local/bin
 # Verificando a instalação
 
 
-Execute o comando a seguir 
+Execute o comando a seguir
 
 ```
 packer
@@ -77,4 +77,4 @@ Veja um exemplo do comando
 
 
 
- 
+
