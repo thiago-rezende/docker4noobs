@@ -3,6 +3,8 @@ O `Docker Compose` é uma ferramenta que facilita a criação, configuração e 
 
 > Mais informações sobre o `Docker Compose` serão fornecidas nas próximas seções.
 
+[[toc]]
+
 # Instalação
 No Linux, você pode baixar o binário do Docker Compose direto do repositório do [Compose no GitHub][compose-github].
 

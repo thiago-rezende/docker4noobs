@@ -5,6 +5,8 @@ Nesta seção, prepararemos nossa máquina para instalar todos os softwares nece
 > - Arch
 > - CentOS
 
+[[toc]]
+
 ## Atualização de Repositórios
 Para executar a instalação corretamente, precisamos atualizar os repositórios de software de nossa distribuição.
 
