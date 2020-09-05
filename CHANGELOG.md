@@ -5,6 +5,10 @@
 ## [Unreleased]
 
 
+## [v0.1.2]
+ - [74f0a5f] fix(vuepress): removed trailing slash from base url (Thiago Rezende)
+ - [43c13fc] docs: generated new changelog (Thiago Rezende)
+
 ## [v0.1.1]
  - [99e8637] docs: update package version (Thiago Rezende)
  - [449affd] Rename 5-Packer.md to 5-packer.md (Thiago Rezende)
