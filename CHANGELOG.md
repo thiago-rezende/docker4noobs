@@ -5,6 +5,12 @@
 ## [Unreleased]
 
 
+## [v0.1.1]
+ - [99e8637] docs: update package version (Thiago Rezende)
+ - [449affd] Rename 5-Packer.md to 5-packer.md (Thiago Rezende)
+ - [f58c359] fix(introduction): packer file naming (Thiago Rezende)
+ - [3cda2cd] docs: generated new changelog (Thiago Rezende)
+
 ## [v0.1.0]
  - [8a47ffe] ci: fixed build command (Thiago Rezende)
  - [71fb686] docs: generated new changelog (Thiago Rezende)
