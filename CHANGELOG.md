@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+
+## [v0.0.1]
+ - [bd9cddf] Merge pull request #12 from thiago-rezende/feature/vuepress (Thiago Rezende)
+ - [064e8b8] docs: generated new changelog (Thiago Rezende)
  - [d7466c8] ci: added github action to build and deploy to gh-pages (Thiago Rezende)
  - [1c50ff7] refactor: removed copyright notices (Thiago Rezende)
  - [7d7c25a] refactor: improved the vuepress main readme.md (Thiago Rezende)
@@ -71,3 +75,4 @@
  - [bd9d974] feat: added gitattributes file (Thiago Rezende)
  - [8209612] feat: added gitignore file (Thiago Rezende)
  - [a4a8607] feat: added editorconfig file (Thiago Rezende)
+
