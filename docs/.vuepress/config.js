@@ -1,5 +1,5 @@
 module.exports = {
-    base: "/docker4noobs",
+    base: "/docker4noobs/",
     title: "Docker 4 Noobs",
     theme: "yuu",
     description: "Guia completo de Docker, Docker Compose, Swarm e Kubernetes",
