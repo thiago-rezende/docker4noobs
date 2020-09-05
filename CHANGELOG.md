@@ -5,6 +5,10 @@
 ## [Unreleased]
 
 
+## [v0.1.0]
+ - [8a47ffe] ci: fixed build command (Thiago Rezende)
+ - [71fb686] docs: generated new changelog (Thiago Rezende)
+
 ## [v0.0.1]
  - [bd9cddf] Merge pull request #12 from thiago-rezende/feature/vuepress (Thiago Rezende)
  - [064e8b8] docs: generated new changelog (Thiago Rezende)
