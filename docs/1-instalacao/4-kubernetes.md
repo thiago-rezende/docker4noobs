@@ -9,8 +9,6 @@ O k3d cria clusters k3s em contêineres. Isso significa que você pode ativar um
 
 > Mais informações sobre `Kubernetes`, `k3d`, `k3s` e `clusters` serão fornecidas nas próximas seções.
 
-[[toc]]
-
 # Instalação
 A instalação do k3d é feita através de um script de instalação, o comando será o mesmo para todas as distribuições abordadas neste tutorial.
 

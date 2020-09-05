@@ -3,8 +3,6 @@ Nesta seção, estaremos instalando o docker e configurando seu usuário para us
 
 > Explicações mais detalhadas sobre o docker serão fornecidas nas próximas seções.
 
-[[toc]]
-
 # Instalação
 Uma variedade de métodos de instalação está disponível nos sistemas linux. Nesta seção, abordarei dois métodos, um deles fazendo uma instalação manual e outro usando um script `bash` para automatizar a instalação.
 

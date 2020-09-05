@@ -2,8 +2,6 @@
 Nesta seção, estaremos instalando o Packer.
 O Paker é uma ferramenta open source, utilizado para criar imagens de máquinas, essas imagens contém um sistema operacional pré-configurado e software instalado que é usado para criar rapidamente novas máquinas
 
-[[toc]]
-
 # Instalação
 Existem dois métodos principais de instalação do packer, usando um binário pré-compilado e instalando da fonte. Vou explicar o método do binário pré-compilado
 
