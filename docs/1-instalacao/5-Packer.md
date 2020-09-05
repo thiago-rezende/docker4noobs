@@ -18,7 +18,7 @@ Entre no link do packer e baixe o pacote apropriado para o seu sistema.
 <div align="center">
 
   <a href="https://github.com/ManuelSVDuarte/docker4noobs">
-    <img src="/assets/instalacao-packer-01.png">
+    <img src="../../assets/instalacao-packer-01.png">
   </a>
 
 
@@ -64,7 +64,7 @@ Veja um exemplo do comando
 <div align="center">
 
   <a href="https://github.com/ManuelSVDuarte/docker4noobs">
-    <img src="/assets/instalacao-packer-02.png">
+    <img src="../../assets/instalacao-packer-02.png">
   </a>
 
 
