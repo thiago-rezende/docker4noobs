@@ -10,5 +10,5 @@ features:
   details: Buscamos uma didática interativa e direta buscando uma curva de aprendizado exponencial.
 - title: Prática
   details: Temos vários exemplos em cada seção para estimular a criatividade do leitor e permitir aplicar os conceitos mostrados.
-footer: MIT Licensed | Copyright © 2020-present He4rt Developers
+footer: MIT Licensed
 ---
