@@ -11,3 +11,6 @@
 
 ### Node ###
 node_modules
+
+### Vuepress ###
+docs/.vuepress/dist
